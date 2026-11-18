@@ -8,7 +8,7 @@ def style_background_home():
         <style>
 
                 .stApp {
-                    background: #5865F2 !important;
+                    background:	#8273B8 !important;
                 }
 
                 .stApp div[data-testid="stColumn"]{
@@ -62,6 +62,7 @@ def style_base_layout():
                 font-size: 3.5rem !important;
                 line-height:1.1 1important;
                 margin-bottom:0rem !important;
+                color:#17243B !important;
             }
                 
 
@@ -70,10 +71,12 @@ def style_base_layout():
                 font-size: 2rem !important;
                 line-height:0.9 !important;
                 margin-bottom:0rem !important;
+                color: 	#8273B8 !important;
             }
                 
             h3, h4, p {
                 font-family: 'Outfit', sans-serif;    
+                color: white !important;
             }
                 
 
