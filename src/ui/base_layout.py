@@ -78,6 +78,9 @@ def style_base_layout():
                 font-family: 'Outfit', sans-serif;    
                 color: white !important;
             }
+
+            .stMarkdown{
+                color: black !important;}
                 
 
             button{
