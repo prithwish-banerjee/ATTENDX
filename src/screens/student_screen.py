@@ -174,7 +174,7 @@ def student_screen():
 
             new_name = st.text_input(
                 "Enter your name",
-                placeholder='E.g. Hamza Rizvi'
+                placeholder='E.g. Prithwish Banerjee'
             )
 
             st.subheader('Optional : Voice Enrollment')
